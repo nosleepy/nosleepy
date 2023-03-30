@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: ZHX2020
+title: nosleepy
 subtitle: ''
 description: '好好生活，慢慢相遇。'
 keywords:
-author: Echo
+author: 不困
 language: zh-CN
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://zhx2020.github.io/
+url: https://nosleepy.cn
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -99,5 +99,5 @@ theme: cactus
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/zhx2020/zhx2020.github.io
+  repository: https://github.com/nosleepy/nosleepy.github.io
   branch: master

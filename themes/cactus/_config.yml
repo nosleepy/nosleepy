@@ -5,7 +5,7 @@
 # Link to a page that gives an overview of all your projects.
 # This can be an external link (e.g., to you GitHub profile) or to another
 # page within your website.
-projects_url: http://github.com/zhx2020
+projects_url: http://github.com/nosleepy
 
 # Set the page direction to RTL or LTR. default is LTR. (if you set it 'rtl', the 'vazir' font will be loaded.)
 direction: ltr
@@ -19,7 +19,7 @@ nav:
   tags: /tags/
   categories: /categories/
   articles: /archives/
-  projects: http://github.com/zhx2020
+  projects: http://github.com/nosleepy
   search: /search/
 
 
@@ -28,7 +28,7 @@ nav:
 # (see https://fontawesome.com/icons?d=gallery&s=brands);
 # only 'mail' is an exception.
 social_links:
-  github: http://github.com/zhx2020/zhx2020.github.io
+  github: http://github.com/nosleepy
   #twitter: /
   #facebook: /
   #linkedin: /
@@ -65,7 +65,7 @@ post:
 # Customize the copyright years
 # Note: if start_year/end_year not provided, will use current year.
 copyright:
-  start_year: 2016
+  start_year: 2020
   end_year:
 
 ##############################################################################
@@ -85,6 +85,7 @@ logo:
   height: 50
   url: https://cdn.jsdelivr.net/gh/zhx2020/picture/img/avatar2.jpg
   gravatar: false
+  grayout: false
 
 # Customize the favicons.
 # Cactus supports a limited set of the three most important icons:
